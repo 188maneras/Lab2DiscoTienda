@@ -1,0 +1,8 @@
+Reporte de Discos Costosos
+---------------------------
+Nombre: Is This It
+Artista: The Strokes
+Género: Rock
+Nombre: Elephant
+Artista: The White Stripes
+Género: Rock
